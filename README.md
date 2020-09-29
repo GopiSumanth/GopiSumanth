@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Gopi's Resume Word Plot](https://github.com/GopiSumanth/GopiSumanth/blob/master/download.png)
 
+![Gopi's Resume Word Plot](https://github.com/GopiSumanth/GopiSumanth/blob/master/download.png) 
+![Spider man git](https://octodex.github.com/images/spidertocat.png)
 <h2 align="center">Hi there 👋!Welcome to Gopi Sumanth Bhaskar's profile🤓</h2> 
 
 <p align="center">Gopi Sumanth is an aspiring Data Scientist currently working as a research assistant under Senior Scientist Dr. M. Srinivasa Rao at CSIR IICT, Hyderabad.👨🏻‍💻. He completed his Master of Science in Computer Science from South Asian University, New Delhi and B.Tech in Computer Science and Engineering from Lovely Professional University, Punjab👨🏻‍🎓.</p>
