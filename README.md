@@ -18,13 +18,10 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi there 👋!Welcome to Gopi S Bhaskar's profile🤓</h2> 
 
-<p align="center">Gopi Sumanth is an aspiring Data Scientist currently working as a research assistant under Senior Scientist Dr. M. Srinivasa Rao at CSIR IICT, Hyderabad. He completed his Master of Science in Computer Science from South Asian University, New Delhi and B.Tech in Computer Science and Engineering from Lovely Professional University, Punjab
-
-On the research front, he has had an eclectic, experimental cum computational background in Machine Learning, Deep Learning, Robotics, Natural Language Processing, and Computer Vision. Now, he is into developing skills in Bioinformatics and Applied Biology in the pursuit of being a holistic researcher.
-
-He is goal-oriented, determined and focused with a keen eye for details and skilled in Machine Learning, Deep Learning, Time series, Python, R, MATLAB, and SQL. He is actively looking for a job role in AI/ML field.
-
-Apart from the labs, he can be found on the squash court, cooking in the kitchen or immersed in a discussion on the contemporary relevance of philosophy and logic at CSIR-IICT, Hyderabad campus. </p>
+<p align="center">Gopi Sumanth is an aspiring Data Scientist currently working as a research assistant under Senior Scientist Dr. M. Srinivasa Rao at CSIR IICT, Hyderabad. He completed his Master of Science in Computer Science from South Asian University, New Delhi and B.Tech in Computer Science and Engineering from Lovely Professional University, Punjab</p>
+<p align="center">On the research front, he has had an eclectic, experimental cum computational background in Machine Learning, Deep Learning, Robotics, Natural Language Processing, and Computer Vision. Now, he is into developing skills in Bioinformatics and Applied Biology in the pursuit of being a holistic researcher.</p>
+<p align="center">He is goal-oriented, determined and focused with a keen eye for details and skilled in Machine Learning, Deep Learning, Time series, Python, R, MATLAB, and SQL. He is actively looking for a job role in AI/ML field.</p>
+<p align="center">Apart from the labs, he can be found on the squash court, cooking in the kitchen or immersed in a discussion on the contemporary relevance of philosophy and logic at CSIR-IICT, Hyderabad campus. </p>
 
 ### 📫 How to reach me: :smiley:
 <a href="https://www.linkedin.com/in/gopi-b/">
