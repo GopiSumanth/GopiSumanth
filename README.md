@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Gopi's Resume Word Plot](https://github.com/GopiSumanth/GopiSumanth/blob/master/download.png) 
+![Gopi's Resume Word Plot](https://github.com/GopiSumanth/GopiSumanth/blob/master/resume%20word%20cloud.png) 
 ![Spider man git](https://octodex.github.com/images/spidertocat.png)
 <h2 align="center">Hi there 👋!Welcome to Gopi Sumanth Bhaskar's profile🤓</h2> 
 
