@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align="center">Apart from the work, he can be found on the squash court🏸, cooking in the kitchen👨🏻‍🍳 or immersed in a discussion on the contemporary relevance of philosophy and logic. </p>
 
 ### 📫 How to reach Gopi: :smiley:
-<a href="https://www.linkedin.com/in/gopi-b/">
+<a href="https://www.linkedin.com/in/gopisumanth/">
   <img align="left" alt="Gopi Sumanth Linkedin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
 </a>
 
